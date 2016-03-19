@@ -1,0 +1,33 @@
+body{
+	padding: 0px;
+	margin: 0px;
+}
+
+#commentsSection{
+	margin: 50px auto;
+	width: 600px;
+}
+
+.profilepic{
+	background-color: #000;
+}
+
+.commentwrap{
+	padding-left: 50px;
+}
+
+.username{
+	display: block;
+}
+
+.comments{
+	text-decoration: none !important;
+	font-weight: normal;
+	display: block;
+}
+
+.timePosted{
+	display: block;
+	font-weight: normal;
+	font-style: italic;
+}
